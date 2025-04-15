@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dsusmitdev/dsusmitdev/main/susmit-das-github-banner.png" alt="Susmit Das DevOps Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Susmit Das</h1>
-<h3 align="center">🚀 Aspiring Cloud & DevOps Engineer | Linux Enthusiast | Learning in Public 🐧</h3>
+<h3 align="center">🚀 Aspiring Cloud & DevOps Engineer | Linux Enthusiast 🐧 | Learning in Public</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dsusmitdev&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="dsusmitdev" />
